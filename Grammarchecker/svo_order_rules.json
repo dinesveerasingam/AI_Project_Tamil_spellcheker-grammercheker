@@ -1,0 +1,39 @@
+{
+    "svo_order_rules": [
+        {
+            "pattern": "சிறுவர்களை அழைத்தாள் ஆசிரியர் வகுப்பில்",
+            "description": "Corrects the order from Object-Verb-Subject to Subject-Object-Verb",
+            "correction": "ஆசிரியர் சிறுவர்களை வகுப்பில் அழைத்தார்"
+        },
+        {
+            "pattern": "தோழன் பார்வையை மறைத்தான் மரம் தோட்டத்தில்",
+            "description": "Reorders the sentence to place the subject at the beginning for clarity",
+            "correction": "தோட்டத்தில் மரம் தோழனின் பார்வையை மறைத்தது"
+        },
+        {
+            "pattern": "மெய்மறந்தார் பயணி காட்டில் அழகை கண்டது",
+            "description": "Adjusts the subject to the beginning of the sentence",
+            "correction": "பயணி காட்டில் அழகை கண்டதும் மெய்மறந்தார்"
+        },
+        {
+            "pattern": "சிறுவர்கள் பந்தை தூக்கியார் மைதானத்தில்",
+            "description": "Corrects the order from Object-Verb-Subject to Subject-Object-Verb",
+            "correction": "மைதானத்தில் சிறுவர்கள் பந்தை தூக்கியார்கள்"
+        },
+        {
+            "pattern": "புத்தகத்தை வாசித்தான் மாணவன் படிப்பறையில்",
+            "description": "Reformats sentence to a Subject-Verb-Object structure for clearer comprehension",
+            "correction": "படிப்பறையில் மாணவன் புத்தகத்தை வாசித்தான்"
+        },
+        {
+            "pattern": "காரை ஓட்டினாள் அவள் நகரத்தில்",
+            "description": "Repositions elements to adhere to conventional Subject-Verb-Object ordering",
+            "correction": "அவள் நகரத்தில் காரை ஓட்டினாள்"
+        },
+        {
+            "pattern": "சமையலை செய்தார் அம்மா குடும்பத்திற்கு",
+            "description": "Adjusts the word order to make the sentence flow logically",
+            "correction": "அம்மா குடும்பத்திற்கு சமையலை செய்தார்"
+        }
+    ]
+}

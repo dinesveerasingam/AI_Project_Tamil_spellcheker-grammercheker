@@ -1,0 +1,84 @@
+Sentence 1:
+Original: அவர் மகளிடம் பரிசு கொடுத்தாள்.
+Corrected: அவர் மகளிடம் பரிசு கொடுத்தாள்.
+Reference: அவர் மகளிடம் பரிசு கொடுத்தார்.
+Error Type: No errors detected.
+BLEU Score: 0.4315
+
+Sentence 2:
+Original: அவள் கதையை கேட்டான்.
+Corrected: அவள் கதையை கேட்டான்.
+Reference: அவள் கதையை கேட்டாள்.
+Error Type: No errors detected.
+BLEU Score: 0.2118
+
+Sentence 3:
+Original: அவனை அழைத்தாள் தோழன்.
+Corrected: அவனை அழைத்தாள் தோழன்.
+Reference: அவளை அழைத்தான் தோழன்.
+Error Type: No errors detected.
+BLEU Score: 0.0725
+
+Sentence 4:
+Original: அவர் கைகளை தூக்கியாள்.
+Corrected: அவர் கைகளை தூக்கியாள்.
+Reference: அவர் கைகளை தூக்கியார்.
+Error Type: No errors detected.
+BLEU Score: 0.2118
+
+Sentence 5:
+Original: அவனை பார்த்தான் சிறுவர்கள்.
+Corrected: அவனை பார்த்தான் சிறுவர்கள்.
+Reference: அவளை பார்த்தார்கள் சிறுவர்கள்.
+Error Type: No errors detected.
+BLEU Score: 0.0725
+
+Sentence 6:
+Original: அவர் கதையை கூறினாள்.
+Corrected: அவர் கதையை கூறினாள்.
+Reference: அவர் கதையை கூறினார்.
+Error Type: No errors detected.
+BLEU Score: 0.2118
+
+Sentence 7:
+Original: அவள் மகனை அழைத்தான்.
+Corrected: அவள் மகனை அழைத்தான்.
+Reference: அவள் மகனை அழைத்தாள்.
+Error Type: No errors detected.
+BLEU Score: 0.2118
+
+Sentence 8:
+Original: மாணவர்களை கற்றார் ஆசிரியர் பாடத்தை.
+Corrected: மாணவர்களை கற்றார் ஆசிரியர் பாடத்தை.
+Reference: ஆசிரியர் மாணவர்களுக்கு பாடத்தை கற்றார்.
+Error Type: No errors detected.
+BLEU Score: 0.0610
+
+Sentence 9:
+Original: பூனைக்கு கொடுத்தான் சிறுவன் பாலை.
+Corrected: பூனைக்கு கொடுத்தான் சிறுவன் பாலை.
+Reference: சிறுவன் பூனைக்கு பாலை கொடுத்தான்.
+Error Type: No errors detected.
+BLEU Score: 0.0726
+
+Sentence 10:
+Original: தோட்டத்தில் விளையாடினான் குழந்தைகள்.
+Corrected: தோட்டத்தில் விளையாடினான் குழந்தைகள்.
+Reference: குழந்தைகள் தோட்டத்தில் விளையாடினார்கள்.
+Error Type: No errors detected.
+BLEU Score: 0.0725
+
+Sentence 11:
+Original: புத்தகத்தை வாசித்தாள் அவள் நூலகத்தில்.
+Corrected: புத்தகத்தை வாசித்தாள் அவள் நூலகத்தில்.
+Reference: அவள் நூலகத்தில் புத்தகத்தை வாசித்தாள்.
+Error Type: No errors detected.
+BLEU Score: 0.0726
+
+Sentence 12:
+Original: காய்களை வாங்கினான் அவர் சந்தையில்.
+Corrected: காய்களை வாங்கினான் அவர் சந்தையில்.
+Reference: அவர் சந்தையில் காய்களை வாங்கினார்.
+Error Type: No errors detected.
+BLEU Score: 0.0726
+
