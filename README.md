@@ -6,6 +6,13 @@ By:
 # Tamil Grammar Correction Tool
 
 This Python script is designed to automatically correct grammatical errors in Tamil sentences. It focuses on common grammatical mistakes such as pronoun usage errors and incorrect Subject-Verb-Object (SVO) order. The script outputs the results, showing the original sentence, the corrected sentence, and the type of grammatical error corrected.
+![image](https://github.com/user-attachments/assets/75157bb9-c517-4dc6-9b6a-b3b46e791ce9)
+![image](https://github.com/user-attachments/assets/ac6c85cf-6be8-406d-ad47-f35c8ed929f1)
+![image](https://github.com/user-attachments/assets/1257a0d5-8a73-4db2-8065-495ad83ad964)
+## DeepLearning
+![image](https://github.com/user-attachments/assets/0cfd8a46-3c55-4468-8834-34c6c6b7f6cc)
+## output
+![image](https://github.com/user-attachments/assets/f697325b-3462-4eb4-8cbd-a0951e3c94c6)
 
 ## Features
 
